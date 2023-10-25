@@ -1,0 +1,81 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+button{
+    color: white;
+    background-color: blue;
+    border: 0;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.subbtn1{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+    font-family: 'Montez', cursive; 
+    
+}
+.subbtn2{
+    position: absolute;
+    top: 270px;
+    left: 20px;
+    font-family: 'Montez', cursive; 
+}
+h1{
+    font-family: 'Montez', cursive; 
+    color: blue;  
+    font-weight: 100px;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+h3{
+    font-family: 'Montez', cursive;
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+.subbtn3{
+    color: black;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+}
+.subbtn4{
+    color: black;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left:55%;
+}
+#modalButton{
+    color: white;
+    background-color: green;
+    width: 430px;
+    
+}
+#createButton{
+    background-color: green;
+    position: relative;
+    bottom: 10px;
+    left: 450px;
+}
+.indexBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+}
+#title{
+    width: 1000px;
+}
+#heading3{
+    font-family: 'Montez', cursive;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
